@@ -124,6 +124,10 @@ public class Automovel {
                 "DEF-5678",
                 100000);
 
+        // Utilizando métodos setters
+        automovel1.setMarca("Volkswagen");
+        automovel1.setModelo("Gol");
+
         // Imprime as informações dos objetos
         automovel1.imprimir();
         automovel2.imprimir();
